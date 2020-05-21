@@ -7,13 +7,15 @@
 			circle: {
 				amount: 18,
 				layer: 3,
-				color: [157, 97, 207],
+				//color: [157, 97, 207],
+				color: [79, 49, 104],
 				alpha: 0.3
 			},
 			line: {
 				amount: 12,
 				layer: 3,
-				color: [255, 255, 255],
+				//color: [255, 255, 255],
+				color: [127, 127, 127],
 				alpha: 0.3
 			},
 			speed: 0.1,
