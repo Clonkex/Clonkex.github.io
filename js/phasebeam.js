@@ -88,7 +88,7 @@
 			
 			gradient[0] = bctx.createRadialGradient(wWidth*0.3, wHeight*0.1, 0, wWidth*0.3, wHeight*0.1, wWidth*0.9);
 			gradient[0].addColorStop(0, 'rgb(0, 26, 77)');
-			gradient[0].addColorStop(1, 'transparent');
+			gradient[0].addColorStop(0.5, 'transparent');
 
 			bctx.translate(wWidth, 0);
 			bctx.scale(-1,1);
@@ -98,7 +98,7 @@
 
 			gradient[1] = bctx.createRadialGradient(wWidth*0.1, wHeight*0.1, 0, wWidth*0.3, wHeight*0.1, wWidth);
 			gradient[1].addColorStop(0, 'rgb(0, 150, 240)');
-			gradient[1].addColorStop(0.8, 'transparent');
+			gradient[1].addColorStop(0.4, 'transparent');
 
 			bctx.translate(wWidth, 0);
 			bctx.scale(-1,1);
@@ -108,7 +108,7 @@
 
 			gradient[2] = bctx.createRadialGradient(wWidth*0.1, wHeight*0.5, 0, wWidth*0.1, wHeight*0.5, wWidth*0.5);
 			gradient[2].addColorStop(0, 'rgb(40, 20, 105)');
-			gradient[2].addColorStop(1, 'transparent');
+			gradient[2].addColorStop(0.5, 'transparent');
 
 			bctx.beginPath();
 			bctx.fillStyle = gradient[2];
