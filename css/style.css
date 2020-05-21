@@ -343,11 +343,11 @@ article .entry-content .sharing iframe {
   left: 0;
   width: 120px;
   height: 100%;
-  background: -webkit-linear-gradient(left, #ddd, #fff);
-  background: -moz-linear-gradient(left, #ddd, #fff);
-  background: -o-linear-gradient(left, #ddd, #fff);
-  background: -ms-linear-gradient(left, #ddd, #fff);
-  background: linear-gradient(to right, #ddd, #fff);
+  background: -webkit-linear-gradient(left, #001b31, #14141d);
+  background: -moz-linear-gradient(left, #001b31, #14141d);
+  background: -o-linear-gradient(left, #001b31, #14141d);
+  background: -ms-linear-gradient(left, #001b31, #14141d);
+  background: linear-gradient(to right, #001b31, #14141d);
 }
 .post header,
 .post .entry-content {
