@@ -94,8 +94,8 @@ strong {
   text-align: center;
 }
 article {
-  background: #fff;
-  color: #333;
+  background: #14141d;
+  color: #ccc;
   margin-bottom: 50px;
   -webkit-box-shadow: 0 0 16px rgba(0,0,0,0.3);
   box-shadow: 0 0 16px rgba(0,0,0,0.3);
@@ -114,7 +114,7 @@ article header .title {
   line-height: 1.1;
 }
 article header .title a {
-  color: #333;
+  color: #ccc;
 }
 article header .title a.link:after {
   content: '\f08e';
@@ -281,7 +281,7 @@ article .entry-content blockquote footer a {
   text-decoration: underline;
 }
 article .entry-content blockquote footer a:hover {
-  color: #333;
+  color: #ccc;
 }
 article .entry-content .pullquote {
   float: right;
@@ -550,7 +550,7 @@ article .entry-content .sharing iframe {
 .archives {
   background: #fff;
   border: 1px solid #ddd;
-  color: #333;
+  color: #ccc;
   margin-bottom: 50px;
   -webkit-box-shadow: 0 0 16px rgba(0,0,0,0.3);
   box-shadow: 0 0 16px rgba(0,0,0,0.3);
@@ -609,7 +609,7 @@ article .entry-content .sharing iframe {
   line-height: 1.1;
 }
 .archives article .title a {
-  color: #333;
+  color: #ccc;
 }
 .archives article footer {
   color: #999;
