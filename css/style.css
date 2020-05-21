@@ -548,7 +548,7 @@ article .entry-content .sharing iframe {
   width: 150px;
 }
 .archives {
-  background: #14141d;
+  background: #1b1b23;
   border: 1px solid #ddd;
   color: #ccc;
   margin-bottom: 50px;
@@ -565,11 +565,11 @@ article .entry-content .sharing iframe {
   left: 0;
   width: 100px;
   height: 100%;
-  background: -webkit-linear-gradient(left, #001b31, #14141d);
-  background: -moz-linear-gradient(left, #001b31, #14141d);
-  background: -o-linear-gradient(left, #001b31, #14141d);
-  background: -ms-linear-gradient(left, #001b31, #14141d);
-  background: linear-gradient(to right, #001b31, #14141d);
+  background: -webkit-linear-gradient(left, #001b31, #1b1b23);
+  background: -moz-linear-gradient(left, #001b31, #1b1b23);
+  background: -o-linear-gradient(left, #001b31, #1b1b23);
+  background: -ms-linear-gradient(left, #001b31, #1b1b23);
+  background: linear-gradient(to right, #001b31, #1b1b23);
 }
 .archives .year {
   color: #999;
