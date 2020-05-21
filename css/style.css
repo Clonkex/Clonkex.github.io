@@ -24,7 +24,7 @@ h3 {
   font-size: 1.3em;
 }
 a {
-  color: #30a1ad;
+  color: #33b7c5;
   text-decoration: none;
 }
 strong {
@@ -497,7 +497,7 @@ article .entry-content .sharing iframe {
   margin-bottom: 50px;
 }
 #pagenavi a {
-  background: #30a1ad;
+  background: #33b7c5;
   color: #fff;
   display: block;
   line-height: 15px;
@@ -753,10 +753,10 @@ article .entry-content .sharing iframe {
   font-size: 100%;
 }
 .entry-content .gist .gist-file .gist-meta a {
-  color: #30a1ad;
+  color: #33b7c5;
 }
 .entry-content .gist .gist-file .gist-meta a:visited {
-  color: #30a1ad;
+  color: #33b7c5;
 }
 figure.highlight {
   background: #eee;
