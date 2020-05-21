@@ -127,7 +127,7 @@ article header time {
   color: #999;
   position: absolute;
   top: 15px;
-  left: -140px;
+  left: -120px;
   z-index: 1;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -341,7 +341,7 @@ article .entry-content .sharing iframe {
   position: absolute;
   top: 0;
   left: 0;
-  width: 120px;
+  width: 100px;
   height: 100%;
   background: -webkit-linear-gradient(left, #001b31, #14141d);
   background: -moz-linear-gradient(left, #001b31, #14141d);
@@ -352,7 +352,7 @@ article .entry-content .sharing iframe {
 .post header,
 .post .entry-content {
   border-left: 1px solid #ccc;
-  margin-left: 160px;
+  margin-left: 140px;
 }
 .post .entry-content {
   position: relative;
@@ -377,8 +377,8 @@ article .entry-content .sharing iframe {
   font-size: 0.9em;
   position: absolute;
   top: 10px;
-  left: -140px;
-  width: 120px;
+  left: -120px;
+  width: 100px;
   z-index: 1;
 }
 .post .entry-content .meta a {
@@ -563,7 +563,7 @@ article .entry-content .sharing iframe {
   position: absolute;
   top: 0;
   left: 0;
-  width: 120px;
+  width: 100px;
   height: 100%;
   background: -webkit-linear-gradient(left, #001b31, #14141d);
   background: -moz-linear-gradient(left, #001b31, #14141d);
@@ -580,7 +580,7 @@ article .entry-content .sharing iframe {
 }
 .archives article {
   border-left: 1px solid #ccc;
-  margin-left: 160px;
+  margin-left: 140px;
   padding: 15px 20px;
   position: relative;
 }
